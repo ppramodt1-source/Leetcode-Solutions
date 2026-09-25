@@ -1,8 +1,8 @@
 # LeetCode-Solutions
 # LeetCode Solutions
 
-**Name:** Prithvi  
-**Roll Number:** R25EF202
+**Name:** Pramod T
+**Roll Number:** R25EF190
 **Course:** B25GE0101
 
 > Personal LeetCode practice log — part of B25GE0101 portfolio
